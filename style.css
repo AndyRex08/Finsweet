@@ -27,7 +27,7 @@ header{
 }
 
 .nav {
-    margin-left: 300px;
+    margin-left: 210px;
     display: flex;
     flex-wrap: wrap;
 }
@@ -73,7 +73,7 @@ header{
 }
 
 .contain {
-    height: 1100px;
+    height: 1000px;
     width: 1500px;
     display: flex;
     flex-wrap: wrap;
@@ -81,12 +81,13 @@ header{
 
 .text {
     width: 500px;
-    height: 800px;
+    height: 700px;
     padding-left: 30px;
+    margin-top: -70px;
 }
 
 .service {
-    width: 400px;
+    width: 350px;
 }
 
 .service h4{
@@ -128,8 +129,8 @@ header{
     background-image: url(Image.jpg);
     background-repeat: no-repeat;
     background-size: contain;
-    height: 700px;
-    width: 700px;
+    height: 600px;
+    width: 600px;
 }
 
 .quick {
@@ -183,8 +184,8 @@ header{
     width: 290px;
     background-color: rgba(255, 255, 255, 0.43);
     border-radius: 50px;
-    margin-top: 40vh;
-    margin-left: 410px;
+    margin-top: 200px;
+    margin-left: 310px;
 }
 
 .starrating {

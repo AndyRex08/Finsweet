@@ -1,0 +1,214 @@
+* {
+    margin: none;
+    overflow-y: hidden;
+}
+
+header{
+    height: auto;
+    margin-left: none;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 30px;
+    padding-bottom: 25px;
+}
+
+.name {
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 24px;
+    margin-top: -20px;
+}
+
+.nav {
+    margin-left: 500px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.nav ul{
+    display: flex;
+    padding-left: 190px;
+    border-right: 1px solid rgb(70, 67, 67);
+}
+
+.nav li{
+    padding: 0px 20px;
+    list-style-type: none;
+    font-size: 18px;
+}
+
+.whatsapp {
+    display: flex;
+    flex-wrap: wrap;
+    height: 80px;
+    margin-left: 20px;
+    margin-top: 9px;
+    padding-right: 20px;
+}
+
+.whatsapp img{
+    height: 40px;
+    padding-left: 10px;
+}
+
+.number {
+    height: 40px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 50px;
+    margin-top: -25px;
+    font-size: 15px;
+}
+
+.number p{
+    line-height: 15px;
+}
+
+.contain {
+    height: 1100px;
+    width: 1600px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.text {
+    width: 700px;
+    height: 800px;
+    padding-left: 30px;
+}
+
+.service {
+    width: 600px;
+}
+
+.service h4{
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.service button {
+    height: 70px;
+    width: 230px;
+    font-size: 25px;
+    color: white;
+    margin-top: -70px;
+    margin-bottom: 90px;
+    background-color: orangered;
+    border: none;
+    border-radius: 15px;
+}
+
+.open {
+    display: flex;
+}
+
+.open img {
+    height: 40px;
+    width: 40px;
+    padding-right: 12px;
+}
+
+.day {
+    margin-top: -24px;
+    line-height: 20px;
+    font-size: 18px;
+}
+
+
+.image {
+    margin-left: 100px;
+    background-image: url(Image.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 700px;
+    width: 700px;
+}
+
+.quick {
+    height: 95px;
+    width: 290px;
+    background-color: rgba(255, 255, 255, 0.43);
+    border-radius: 50px;
+    margin-top: 80px;
+    margin-left: -25px;
+}
+
+.quickserve {
+    padding-top: 8px;
+    padding-left: 4px;
+}
+
+.quickservice {
+    height: 80px;
+    width: 260px;
+    background-color: white;
+    border-radius: 50px;
+    margin-left: 9px;
+    display: flex;
+}
+
+.hour {
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 60px;
+    width: 60px;
+    align-content: center;
+    background-color: rgb(57, 136, 106);
+    border-radius: 5vh;
+    text-align: center;
+}
+
+.hr {
+    margin-top: -9px;
+    margin-left: -22px;
+}
+
+.quickservice p{
+    margin-top: 3vh;
+    padding-left: 1vw;
+    font-size: 20px;
+}
+
+
+.rate {
+    height: 100px;
+    width: 290px;
+    background-color: rgba(255, 255, 255, 0.43);
+    border-radius: 50px;
+    margin-top: 40vh;
+    margin-left: 410px;
+}
+
+.starrating {
+    padding-top: 1px;
+    margin-left: 5px;
+}
+
+.starrate {
+    height: 83px;
+    width: 260px;
+    background-color: white;
+    border-radius: 50px;
+    margin-left: 9px;
+    margin-top: 8px;
+    display: flex;
+    line-height: 20px;
+}
+
+.st {
+    margin-top: -10px;
+    margin-left: 30px;
+    height: 200px;
+}
+
+.st p{
+    margin-top: 25px;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.starrate img {
+    margin-top: 20px;
+    width: 9vw;
+    height: 30px;
+}
